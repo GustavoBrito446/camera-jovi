@@ -1,0 +1,10 @@
+{
+  "name": "Camera Presets Studio",
+  "description": "Plataforma de câmera com presets inteligentes personalizáveis e comunidade compartilhável.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
